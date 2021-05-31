@@ -2,7 +2,8 @@
 layout: landing-banner
 title: Blog
 subtitle: Stay up to date
-colour: is-info
+colour: hsl(204, 86%, 53%)
+text-colour: white
 ---
 <link rel="stylesheet" href="/assets/css/paginate.css">
 

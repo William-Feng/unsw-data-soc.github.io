@@ -2,7 +2,7 @@
 layout: landing-banner
 title: Our Team
 subtitle: Meet the team behind the magic.
-colour: is-info
+colour: hsl(204, 86%, 53%)
 title-image: city2_left.png
 permalink: /about/team/
 ---

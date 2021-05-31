@@ -1,7 +1,8 @@
 ---
 layout: publication
 title: First Year Guide
-colour: is-light
+colour: hsl(204, 86%, 53%)
+text-colour: white
 subtitle: |
   UNSW has a whole host of different experiences and opportunities, so much so that it can feel super daunting and confusing. If this is how you feel (and even if it's not) - this <b>First Year Guide</b> is for you!
   <br><br>

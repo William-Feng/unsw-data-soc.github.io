@@ -1,13 +1,13 @@
-<section class="hero is-info  is-bold">
+  <section class="hero" style = " background-color: {{page.colour}}">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
-          {{ page.title }}
-        </h1>
-        <br>
-        <h2 class="subtitle">
-            {{ page.subtitle | markdownify }}
-        </h2>
+          <h1 class="title" {%if page.text-colour %} style = " color: {{page.text-colour}}" {% endif %}>
+            {{ page.title }}
+          </h1>
+          <br>
+          <h2 class="subtitle" {%if page.text-colour %} style = " color: {{page.text-colour}}" {% endif %}>
+              {{ page.subtitle | markdownify }}
+          </h2>
       </div>
     </div>
   </section>

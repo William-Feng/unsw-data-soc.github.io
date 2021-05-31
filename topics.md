@@ -3,7 +3,8 @@ layout: landing-banner
 permalink: blog/topics
 title: Tags
 subtitle: Filter by topic
-colour: is-info
+colour: mediumpurple
+text-colour: white
 ---
 <link rel="stylesheet" href="/assets/css/tags.css">
 <div class="hero-body">

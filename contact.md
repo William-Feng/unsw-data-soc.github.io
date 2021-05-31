@@ -2,7 +2,8 @@
 layout: landing-banner
 title: Contact Us
 subtitle: Reach out to us here
-colour: is-link
+colour: salmon
+text-colour: white
 ---
 
 <div class="hero-body; container has-text-black">
@@ -17,7 +18,7 @@ colour: is-link
                 Be sure to check out our social media links!
                 <br><br><br>
                 <a href="https://forms.gle/hLDY7bAGa1H4CV348" target="_blank">
-                    <button class="button is-info is-bold">Join Us!</button></a>
+                    <button class="button" style = " background-color: {{page.colour}}; color: {{page.text-colour}}">Join Us!</button></a>
                 <br><br><br>
             </p>
             <div>
@@ -74,7 +75,7 @@ colour: is-link
                     <div class="response" id="mce-success-response" style="display:none"></div>
                 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8dc568d0db37b26ed75ba4d94_01f8128da2" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button  is-info is-bold"></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button  is-bold" style = " background-color: {{page.colour}}; color: {{page.text-colour}}"></div>
                 </div>
             </form>
             </div>

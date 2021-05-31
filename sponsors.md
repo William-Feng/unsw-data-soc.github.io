@@ -2,7 +2,8 @@
 layout: landing-banner
 title: Our Sponsors
 subtitle: Here are the amazing companies we work with
-colour: is-danger
+colour: mediumpurple
+text-colour: white
 title-image: city3_left.png
 subtitle: |
   DataSoc wouldn't be DataSoc without the amazing companies we've worked with throughout our journey as a society.
@@ -10,7 +11,7 @@ subtitle: |
   <br><br>
   It's our long term goal to help our members become as capable they can be, and it wouldn't be possible without the continued support from industry.
   <br><br>
-  **Interested in sponsoring? Reach out to [external@unswdata.com](mailto:external@unswdata.com)**
+  <b>Interested in sponsoring? Reach out to <a href = 'mailto:external@unswdata.com' style = "color: white">external@unswdata.com</a></b>
 ---
 <div class="hero-body">
   <!--Sponsors -->

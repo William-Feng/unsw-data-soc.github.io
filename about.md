@@ -2,7 +2,7 @@
 layout: landing-banner
 title: About Us
 subtitle: What we really do.
-colour: is-warning
+colour: orange
 introduction: |
   At DataSoc, our goal is to discover how data shapes the world around us. 
   <br><br> 

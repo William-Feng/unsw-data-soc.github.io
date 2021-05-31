@@ -1,7 +1,8 @@
 ---
 layout: publication
 title: Careers Guide
-colour: is-light
+colour: mediumpurple
+text-colour: white
 subtitle:
     Data Science can be difficult to navigate career-wise. With so many options, it's easy to get
     swept away in a tide of information. 
