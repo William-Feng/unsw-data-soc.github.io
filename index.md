@@ -99,8 +99,8 @@ title: Welcome to DataSoc
         </div>
     </div>
 </div>
-<div class="hero is-bold is-medium" style="background-image: url('/assets/images/events/2020/ibm.jpg'); background-position: center bottom; background-attachment: fixed; background-size: cover;">
-    <div class="hero-body" style="background:rgba(0,0,0,0.6);">
+<div class="hero is-bold is-medium" style="background: linear-gradient(27deg, rgba(235,226,147,1) 0%, rgba(226,182,131,1) 20%, rgba(230,154,154,1) 40%, rgba(207,162,255,1) 70%, rgba(110,204,252,1) 100%)">
+    <div class="hero-body" style="background:rgba(0,0,0,0.05);">
         <div class="container">
             <div class="level">
                 <div class="column is-6 is-hero-title">
